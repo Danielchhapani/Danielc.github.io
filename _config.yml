@@ -1,0 +1,17 @@
+# Site settings
+title: Daniel Chhapani
+description: Data Analyst
+theme: minima # You can specify a theme if you're using one
+
+show_downloads: false
+
+# GitHub Pages settings
+remote_theme: jekyll/minima # The theme you're using
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+
+#markdown: kramdown
+#permalink: /:title/
